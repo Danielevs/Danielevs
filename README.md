@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-## Eu sou Daniele, 🎓bacharel em Sistemas de Informação pela UFAM. Atualmente tenho tenho interesse nas áreas de dados e desenvolvimento de software. Tenho me dedicado intensamente ao aprendizado, buscando cursos, participando de eventos e mergulhando em conteúdos relevantes para as áreas do meu interesse.
+## Eu sou Daniele, 🎓bacharel em Sistemas de Informação pela UFAM. Atualmente faço Residencia em Software no Instituto de Pesquisas Eldorado no desenvolvimento de jogos. Tenho tenho interesse nas áreas de dados, games  e desenvolvimento de software. Tenho me dedicado intensamente ao aprendizado, buscando cursos, participando de eventos e mergulhando em conteúdos relevantes para as áreas do meu interesse.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,6 +9,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg">
+  <img align="center" alt="C#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  
 </div>
   
   ##
