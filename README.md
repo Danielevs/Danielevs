@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-## Eu sou Daniele, 🎓bacharel em Sistemas de Informação pela UFAM. Atualmente faço Residencia em Software no Instituto de Pesquisas Eldorado no desenvolvimento de jogos. Tenho tenho interesse nas áreas de dados, games  e desenvolvimento de software. Tenho me dedicado intensamente ao aprendizado, buscando cursos, participando de eventos e mergulhando em conteúdos relevantes para as áreas do meu interesse.
+## Eu sou Daniele, 🎓bacharel em Sistemas de Informação pela UFAM. Minha utltima experiência foi Residencia em Software no Instituto de Pesquisas Eldorado no desenvolvimento de jogos. Tenho tenho interesse nas áreas de dados, games  e desenvolvimento de software. Tenho me dedicado intensamente ao aprendizado, buscando cursos, participando de eventos e mergulhando em conteúdos relevantes para as áreas do meu interesse.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
